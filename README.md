@@ -15,4 +15,4 @@ Detection of multiple failed login attempts (Event ID 4625)
 
 ## Lab Architecture Diagram
 
-![Lab Diagram](lab-diagram.png)
+![Lab Diagram](Lab-Diagram.png)
