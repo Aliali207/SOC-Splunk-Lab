@@ -25,4 +25,7 @@ Detection of multiple failed login attempts (Event ID 4625)
 
 ![Kali Hydra Command](screenshots/kali_hydra_command.png)
 
-## Report(RDP-BruteForce-Report.md)
+## Incident Report
+
+Read the detailed report here: [RDP BruteForce Report](RDP-BruteForce-Report.md)
+
