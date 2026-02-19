@@ -17,9 +17,7 @@ Detection of multiple failed login attempts (Event ID 4625)
 
 ![Lab Diagram](Lab-Diagram.png)
 
-## RDP Brute Force Detection
-
-## Splunk Detection (RDP Brute Force)(screenshots/rdp_bruteforce_detection.png)
+## RDP Brute Force Detection (screenshots/rdp_bruteforce_detection.png)
 
 ## Kali Attack Simulation
 
