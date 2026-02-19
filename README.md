@@ -13,4 +13,6 @@ Detection of multiple failed login attempts (Event ID 4625)
 
 ---
 
-This lab is part of my journey to become a SOC Analyst.
+## Lab Architecture Diagram
+
+![Lab Diagram](lab-diagram.png)
