@@ -16,3 +16,7 @@ Detection of multiple failed login attempts (Event ID 4625)
 ## Lab Architecture Diagram
 
 ![Lab Diagram](Lab-Diagram.png)
+
+## RDP Brute Force Detection
+
+![RDP Brute Force Detection](screenshots/rdp_bruteforce_detection.png)
