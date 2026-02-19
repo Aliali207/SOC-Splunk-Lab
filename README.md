@@ -20,3 +20,7 @@ Detection of multiple failed login attempts (Event ID 4625)
 ## RDP Brute Force Detection
 
 ![RDP Brute Force Detection](screenshots/rdp_bruteforce_detection.png)
+
+## Kali Attack Simulation
+
+![Kali Hydra Command](screenshots/kali_hydra_command.png)
